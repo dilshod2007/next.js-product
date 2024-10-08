@@ -50,7 +50,6 @@ const Product = () => {
                     </div>
                 ))}
             </div>
-            <h2 className="text-center text-xl font-bold mt-8">salom</h2>
         </div>
     )
 }
